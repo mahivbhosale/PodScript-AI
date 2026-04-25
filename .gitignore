@@ -1,0 +1,39 @@
+# Environment variables (contains API keys - never commit!)
+.env
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary uploads
+/tmp/podcast_uploads/
+
+# Byte-compiled files
+*.py[cod]
+
+# Test/sample documents (not needed in repo)
+*.pdf
+*.txt
+!sample_outputs/sample_script.txt
+
+# HuggingFace space folder
+hf_space/
