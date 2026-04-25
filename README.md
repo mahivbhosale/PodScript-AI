@@ -2,6 +2,10 @@
 
 An AI-powered system that generates natural, conversational podcast scripts between a Host and Guest — grounded in your uploaded documents.
 
+🔗 Live Demo: https://huggingface.co/spaces/mahieeway-10/PodScript-AI
+
+🎥 Video Demo: https://drive.google.com/file/d/1XgNoHDkelNAU2RYgaF5eYCnfat2zjrwf/view?usp=sharing
+
 ## ✨ Features
 
 - 📄 Upload PDF, DOCX, or TXT documents as source material
